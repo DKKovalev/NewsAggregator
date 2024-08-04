@@ -1,0 +1,14 @@
+secrets:
+  TELEGRAM_API_TOKEN: ''
+  TELEGRAM_API_HASH: ''
+  TARGET_TELEGRAM_CHANNEL_URL: ''
+  DEVICE_VERSION: ''
+  VK_API_TOKEN: ''
+
+telegram_channels: [
+  '',
+]
+
+vk_channels: [
+  ''
+]
